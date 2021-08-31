@@ -21,7 +21,7 @@ This is a fine for something like stats, but we have to start thinking about how
 
 ---
 
-## Data organization is important
+### Data organization is important
 
 <div class="left">
 	<img src="images/tamaraSlide.png" width=450>
@@ -43,7 +43,7 @@ Similarly for categorical data like with an organization, network, or a tree -- 
 
 ---
 
-## Example: Temporal data is numerical, but its also something "else"
+### Example: Temporal data is numerical, but its also something "else"
 
 <!-- .slide: class="two-floating-elements" -->
 
