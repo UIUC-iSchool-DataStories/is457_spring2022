@@ -14,7 +14,7 @@ Also categorical or qualitative data which is either ordered (ordinal) or unorde
 
 <img src="https://static.wixstatic.com/media/6efa5f_e6f70adbf18e41fd8e369abc4c309563~mv2.png/v1/fill/w_770,h_434,al_c,lg_1,q_85/Types%20of%20Data_Visual_PNG.webp">
 
-We need to dig a little deeper for data viz.
+We need to dig a little deeper for visualizing data.
 
 notes:
 This is a fine for something like stats, but we have to start thinking about how data type and format maps itself visually -- what is the best mapping for our visual cortex?
