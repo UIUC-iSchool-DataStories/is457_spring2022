@@ -3,10 +3,6 @@ title: A few notes about data types
 layout: lecture
 ---
 
-# A bit about data types
-
----
-
 <img src="https://static.wixstatic.com/media/6efa5f_e6f70adbf18e41fd8e369abc4c309563~mv2.png/v1/fill/w_770,h_434,al_c,lg_1,q_85/Types%20of%20Data_Visual_PNG.webp">
 
 notes:
