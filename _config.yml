@@ -21,7 +21,7 @@ baseurl: "/aouaog_fall2021" # the subpath of your site, e.g. /blog
 url: "https://uiuc-ischool-datastories.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jnaiman
 branch: main
-port: 4011
+port: 3001
 
 # Build settings
 markdown: kramdown
