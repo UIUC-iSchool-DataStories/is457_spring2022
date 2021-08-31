@@ -1,14 +1,14 @@
 instructor: 
-  name: Matthew Turk
-  email: mjturk@illinois.edu
+  name: Jill Naiman
+  email: jnaiman@illinois.edu
   office: Online
-  office_hours: Friday, 9-11, by appointment
+  office_hours:  by appointment
 tas: []
 course:
   name: Data Storytelling
   number: IS457
-  semester: Spring, 2021
+  semester: Fall, 2021
   location: Online
-  time: Tue & Thu, 2:00-3:20PM
+  time: Tuesdays, 4:00-5:55PM
   credit_hours: 4
 urls: []
