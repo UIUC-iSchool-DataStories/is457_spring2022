@@ -1,5 +1,5 @@
 ---
-title: Data Character in Story
+title: Data Stories -- data intro
 layout: lecture
 ---
 
@@ -155,3 +155,5 @@ I'd suggest staying away from geo-plots right now (i.e. plots on a map) as we'll
 For data.world, you *can* use a connector, but in general, its probably easier to download a CSV/XLSX file and upload it to your drive and open in a google sheets
 
 also, don't forget you have slides/notes about how to do all of this in google datastudio from the last 2 weeks!
+
+also remember: this is a *rough draft* its fine if you don't get to all of your plots, you can draw what you want them to look like in your report, we'll have more time to do this throughout the semester
