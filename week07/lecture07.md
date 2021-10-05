@@ -11,6 +11,7 @@ layout: lecture
   * interactive vs. static
   * guided vs. unguided
   * audience
+1. Twine
 
 notes:
 So we'll talk a bit about framing devices and how apply them to data stories
@@ -185,130 +186,54 @@ Our stories must be *honest*.
 
 How can we relate this to thinking about inductive as opposed to deductive storytelling?
 
+<div class="left">
+<img src="https://i.ytimg.com/vi/fVrCRS9tfF8/maxresdefault.jpg">
+</div>
 
-
-
-
-
-
-
-
-
----
-
-## Finding the story
-
- > "But the numbers keep on circling me..."
-
-Let's talk about explaining things.
+<div class="right">
+<img src="https://media.graphcms.com/hRXLqP4XTH2UnjVJkLTe">
+</div>
 
 notes:
+the distinction between data driven an data informed can be thought of a bit of as do you want your user to get a broad concept derived from data (data informed) OR do you want them to be able to recreate your graphs or visualizations/input data? (data driven)
 
- * what is a framing device? put in a definition
- * reminder of data characters
- * twine: framework for interactive fiction, bandersnach was storyboarded in this, also choose your own adventure
- * remote/book -- tacktile sentation and control -- example of framing device, path through data
- * map -- this tells you where you are, w/rt data like bike trails, restaurants
- * HIV viz -- data informed vs. gapminder which is data driven (can reproduce data from graphs)
- * inductive vs deductive storytelling
- * framing for us: true or THE truth (data informed, data driven) AND control vs. leading viewer on a path
- * another example: how games teach you to play them (Myst!), record scratch meme, breaking the 4th wall
- 
- * maybe start with "choose your own adventure" and bandersnatch
- * have formal definition
- * then some introduction examples
- * "state dependent learning" -- learning something within a specific context as an analogy in psychology
- 
- * narrative: you go tell someone, or canned conversations in a game
- * navigable: user is in control, more invested in some cases
- * hybrid: spectrum!
- 
-FOR navigable
- * think about: how much control do you want to give your user? ex: GDS gives SOME control (over graphs) but not over which graphs are produced
- * causality? control? connection
- * static stories
- * hybrid examples -- bloomberg, interactives, maybe on bbc? (order is fixed) figures in the sky is great! -- framing discussion is the intro paragraph, order is whatever we choose -- causality means that we don't need to know one thing before the next
- * probably have the full list, but only look at these 2 (mention nixon sonification and link to twotone: https://twotone.io/)
+on both the left and right we see a depiction of the popularity of some anime cartoons
+
+on the left though, we see bars, but no axis numbers and no words, only little pictures showing which are the most popular -- we could not backtrack out what the data was here and make our own graph
+
+on the right however, we have names of each and actual numbers (in the millions on the bottom). both of these show the popularity of anime over time periods, but you only get a "feel" for relative popularities on the left, you would need something like the graph on the right to actually get the data and remake on your own
 
 ---
 
-## How do we tell stories?
-
- * Teller
- * Tale
- * Told
-
----
-
-## Data Stories
-
-Where does the data fit into this?
-
-Where does the interaction fit into this?
-
----
-
-## Informing versus Driving
-
-Do you want your audience to be able to recreate your input data?  To make inferences?  Or is it appropriate to focus on conveying broad ideas, without one-to-one mapping of information to visualization?
-
-Our stories must be *honest*.
-
-How can we relate this to thinking about inductive as opposed to deductive storytelling?
-
----
-
-## Framing Devices
-
-Think of a video game, or a movie, where someone was introduced to something.
-
----
-
-## Framing Devices
-
-What do framing devices provide?
-
- * Context
- * Stability
- * Orientation
-
----
-
-## Framing Devices: Context
-
-<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 768px; height: 600px;" src="https://getyarn.io/yarn-clip/embed/cc875f97-6042-4c9b-861a-614c32cc08f2?autoplay=false"> </iframe>
-
----
-
-## Framing Devices: Stability
-
-<iframe width="896" height="504" src="https://www.youtube.com/embed/Fmeb-f4pthA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-## Framing Devices: Orientation
-
-<iframe width="896" height="504" src="https://www.youtube.com/embed/oEgO16JaW4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-## Storytelling Form
+## Storytelling Form: interactive vs static
 
  * Narrative
  * Navigable
  * Hybrid
+ 
+notes:
+another decision we need to make is how much control do we want to give our audience in the exploration of the story?
+
+ * narrative: you go tell someone, or canned conversations in a game
+ * navigable: user is in control, more invested in some cases
+ * hybrid: spectrum! this is often what we will do -- for example with google data studio the user can have some control over the look of a graph, or the range of data in it, but they don't have control over what graphs are present in your report -- you do!
+ 
+
 
 ---
 
-## Style of Story: Navigable
+## Style of Story: Interactive/Navigable
 
 Do we give the person control?  How much control?  What do we need to retain?
 
 <ul>
- <li class="fragment"><b>Causality</b>: Do we want to start <i>en media res</i>? Are we just a bunch of events that happen to occur?</li>
+ <li class="fragment"><b>Causality</b>: Do we want to start <i>en media res</i>? Are we just experiencing a bunch of events that happen to occur?</li>
  <li class="fragment"><b>Control</b>: How many degrees of freedom do we provide? When does it become confusing?  Is it sequential, random access, or a hybrid?</li>
  <li class="fragment"><b>Connection</b>: Does the experience (the teller) enable a connection between the data (the tale) and the viewer (the told)?</li>
 </ul>
+
+notes: 
+here "en media res" means in the middle of the story
 
 ---
 
@@ -318,25 +243,42 @@ Things sit there.  People can explore with their eyes, but the reference points 
 
 These can be effective, but can also be less visceral.
 
+notes:
+this can be like a static webpage or a static bbc article
+
 ---
 
 ## Style of Story: Hybrid
 
 A large-scale progression, coupled with intermediate diagrams that may be navigable.
 
+notes:
+again, this is likely what you will use for any interactive data stories you make
+
 ---
 
-## Style of Story: Examples
+## Style of Story: Guided vs Unguided
 
- * [Bloomberg 50](https://www.bloomberg.com/features/2019-bloomberg-50/)
+ * [Bear Attack Survival Quiz](https://www.nytimes.com/interactive/2021/well/live/bear-attack-tips.html)
  * [Figures in the Sky](http://www.datasketch.es/may/code/nadieh/) (and [write-up](https://www.visualcinnamon.com/portfolio/figures-in-the-stars))
+ 
+ 
+Other cool sites we won't get to:
  * [Selfie City](http://selfiecity.net/)
  * [Letter Frequency](https://public.tableau.com/en-us/gallery/frequency-letters)
- * [Legend of Nixon](https://twotone.io/examples/legend-of-nixon/)
+ * [Legend of Nixon, Sonically](https://twotone.io/examples/legend-of-nixon/) (also check out  https://twotone.io/)
+
+notes:
+
+another thing we have to consider is how to guide users through our data story -- this relates to causality in an interactive/navigatable type story causality means that we don't need to know one thing before the next
+
+for example, the bear attack quiz (which is possibly the best waste of time I've participated in online in the recent past) walks you through learning about bears through framing this knowledge in a quiz. It is interactive, but there are pre-determined steps and in a sense the information you learn is causal -- you don't get a bear attack survival rating until the very end
+
+we can contrast that to something like Figures in the Sky in which there is some "top to bottom" navigation, but the user can select what to investigate and the order doesn't really matter
 
 ---
 
-## Designing Your Story
+## Designing Your Story: Consider your audience (and medium!)
 
  1. What medium will you use?
     * How do you want people to "consume" it?
@@ -350,60 +292,29 @@ A large-scale progression, coupled with intermediate diagrams that may be naviga
     * What can stay the same?
     * What can the audience control, and what can they not?
 
----
+notes:
+another important thing to consider when thinking about designing your story is how your audience will interact with any medium you choose to use to convey your story
 
-## You Can Do This
+you should consider this medium and how folks can get to it
+ * do they need a subscription? is it findable? 
+ * what do you assume your audience knows before accessing your visualization?
+ * how do you need to modify your data so that folks can see/understand your points?
+ 
+what are the aethetics?
+ * is there a visual language you can use? for example, many folks are already familiar with barcharts
+ * if you choose a more complicated visization, make sure there is a reason for this
+ 
+how interactive?
+ * again, thinking about how much you want your audience to be able to control and in what order -- this choice might be audience-dependent!
 
-<p class="fragment">Yes, you can do this.</p>
 
-<p class="fragment">Even the stuff that seems super technical and complicated.</p>
 
-<p class="fragment">I wouldn't say this if it weren't true.</p>
-
----
-
-## Resources
-
-<ul>
-<li class="fragment">There are tutorials out there.  Use these.</li>
-<li class="fragment">Use templates.  Make them your own.</li>
-<li class="fragment">Learn from others.  Ask questions.</li>
-<li class="fragment">Find the fun things.</li>
-<li class="fragment">Use stuff like <a href="https://iodide.io">iodide</a>, <a href="https://observablehq.com/">observable</a>, <a href="https://learning.oreilly.com/">safari</a>, <a href="https://github.com/">github</a>, and especially <a href="https://glitch.com/">glitch</a>.
-</ul>
-
----
-
-## Choosing a Medium
-
- * Will you be there?
- * How constrained is your story?
- * What technical abilities do you have?
- * How does the data interact?
-
----
-
-## Technical Choices for a Medium
-
-(Besides the one we're going to use today!)
-
-[Explorables explanations](https://explorabl.es/) has a collection of [tools](https://explorabl.es/tools/) we can explore.
-
-[Kinetic Graphs](https://kineticgraphs.org/) allows you to define specific characteristics, thus enabling mathematical formulas to be manipulated.
-
-[Observable](https://observablehq.com/) is a platform for exploring interactive notebooks, and is particularly well-suited to visualization and design projects.
-
-[GitHub Pages](https://pages.github.com) is a straightforward way of creating HTML (or markdown) and placing it online.  This can include interactivity.
-
-[Glitch](https://glitch.com/) is an environment for exploration of web development and applications which can have server-side components.
 
 ---
 
 ## Twine
 
-Today we are going to use Twine.
+Going forward in the class we are going to use Twine (and a bit of Google Data Studio with it if we have time).
 
 Twine is a way to build interactive narratives in the browser, that can be
-experienced and guided.  We will cover the very basics of Twine, including
-navigation and variables, and then we will split into groups to discuss how we
-might use this for data stories.
+experienced and guided.
