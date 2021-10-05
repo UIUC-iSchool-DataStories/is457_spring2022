@@ -3,6 +3,12 @@ title: Framing Devices
 layout: lecture
 ---
 
+## But first! A quick announcement
+
+See Week 7 on the Moodle for links to a "temperature taking" survey.
+
+---
+
 # Today
 
 1. What is a framing device?
