@@ -102,183 +102,374 @@ but why? well visualizations are powerful and in what they can communicate and h
 ## Visualization as a reading strategy
 
 <img src="images/matts_picture.png">
+- Prof. Matt Turk's fantastic drawing
 
 notes:
-how folks use viz to make a pic in their minds
+so here I'm blatantly stealing an image from Prof. Matt Turk, one of the originators of this course, in which he talks about the fact that visualization is useful to us from a very young age as we use it as a reading strategy
+
+so often when we are learning to read as kids, we use what we read to create a visual representation in our heads about the text
+
+for example, if I read "the stars twinkle in the night sky" we might picture looking up to see stars at night, or might make a drawing of "star shaped things" in our head with a black background
 
 ---
 
 ## Visualization as a data comprehension strategy
+
+<img src="https://chandra.harvard.edu/graphics/edu/formal/variable_stars/HR_diagram.jpg" width="800px">
  
  
 notes:
-narrative control allows... something
+visualization is also useful for data comprehension and different visualization and the order we decide to present them to our audience matters
+
+for example, what if show you this example of an HR diagram, or the Hertsprung Russel diagram that is pretty famous in astronomy showing the relationships between brightness and temperature of different kinds of stars vs...
+
+---
+
+## Visualization as a data comprehension strategy
+
+<img src="https://www.schoolsobservatory.org/sites/default/files/astro/hr-diagram-credit-nso.png" height="700px">
+
+notes:
+... this representation 
+
+this representation is more sparse and actually labels
+
+for example, our sun is listed as are other stars folks may have heard of like Sirius and Betelgeuse (betelgeuse is the redish looking star in the constallation orion's shoulder)
+
+---
+
+## Visualization as a data comprehension strategy
+
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="border: none; vertical-align:top">
+<br><br><br><br>
+<img src="https://chandra.harvard.edu/graphics/edu/formal/variable_stars/HR_diagram.jpg" width="400px">
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br><br><br>
+<img src="https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="50px">
+</td>
+<td style="border: none; vertical-align:top">
+<img src="https://www.schoolsobservatory.org/sites/default/files/astro/hr-diagram-credit-nso.png" height="600px">
+</td>
+</tr>
+</table>
+
+notes:
+the order I showed you matters here! I showed the more technical plot first, so you probably didn't get a lot out of it...
+
+---
+
+## Visualization as a data comprehension strategy
+
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="border: none; vertical-align:top">
+<img src="https://www.schoolsobservatory.org/sites/default/files/astro/hr-diagram-credit-nso.png" height="600px">
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br><br><br>
+<img src="https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="50px">
+</td>
+<td style="border: none; vertical-align:top">
+<br><br><br><br>
+<img src="https://chandra.harvard.edu/graphics/edu/formal/variable_stars/HR_diagram.jpg" width="400px">
+</td>
+</tr>
+</table>
+
+notes:
+... had I shown you them in the other order, you might have been able to start drawing some similarites between the two plots -- the new concepts of "Spectral Class" and "Absolute Magnitude" added to this plot could have been given the context of the previous plot
+
+---
+
+## Visualization as a data comprehension strategy
+
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="border: none; vertical-align:top">
+<br><br><br><br><br><br><br>
+Information about different kinds of stars
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br>
+<img src=https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
+</td>
+<td style="border: none; vertical-align:top">
+<br><br><br>
+<img src="https://www.schoolsobservatory.org/sites/default/files/astro/hr-diagram-credit-nso.png" width="300px">
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br>
+<img src="https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
+</td>
+<td style="border: none; vertical-align:top">
+<br><br><br><br>
+<img src="https://chandra.harvard.edu/graphics/edu/formal/variable_stars/HR_diagram.jpg" width="400px">
+</td>
+</tr>
+</table>
+
+Visualizations (and the context surrounding them) aids in our comprehension of data.
+
+notes:
+in reality, I probably should have given you some more contextual information about stars before showing you anything, but this was just a toy example
+
+
+the main take-away here is that the different visualizations presented in different ways can either help or hinder our understanding of a data concept
+
+---
+
+## Visualization as a data comprehension strategy
+
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="border: none; vertical-align:top">
+<br><br><br><br><br><br><br>
+Information about different kinds of stars
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br>
+<img src="https://superawesomevectors.com/wp-content/uploads/2016/03/back-and-forth-arrows-800x566.jpg" width="150px">
+</td>
+<td style="border: none; vertical-align:top">
+<br><br><br>
+<img src="https://www.schoolsobservatory.org/sites/default/files/astro/hr-diagram-credit-nso.png" width="300px">
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br>
+<img src="https://superawesomevectors.com/wp-content/uploads/2016/03/back-and-forth-arrows-800x566.jpg" width="150px">
+</td>
+<td style="border: none; vertical-align:top">
+<br><br><br><br>
+<img src="https://chandra.harvard.edu/graphics/edu/formal/variable_stars/HR_diagram.jpg" width="400px">
+</td>
+</tr>
+</table>
+
+Visualizations (and the context surrounding them) aids in our comprehension of data.
+<br><br>
+More interactivity generally gives the listener/user more agency over forming comprehension from visualizations.
+
+
+notes:
+also, I could have added even more interactivity to explore these visualization -- what if I had given over narrative control so you could have explored each of these figures and parts of these figures yourselves?
+
+this would have given more agency to you to form these mappings between the data and your conceptual map on your own
 
 ---
 
 ## Organizational Strategies for Data Storytelling
 
-notes:
-the four linearity, interactivity, causality, details
+* Linearity
+* Interactivity
+* Causality
+* Details/Zoomability/Perspective
 
- * idea of "what is a scene"
- * goes through each of these
- * maybe can relate it back to some things we've done in twine
- * causality vs. linearity -- memento, pulp fiction
- * details -- GDS was sort of used for this
- * then does a jamboard
- * maybe we do this lecture and then come back to it
- * Details/Zoom-ability/Perspective
- * maybe do this lecture twice -- before twine intro, and then before jamboard design activity
- * for jamboard design activity: write down, who is your audience? where is this being presented?
  
+notes:
+as we start thinking about how we want to develop our datastory along these "axis" of interactive and broadcast we can use several organizational strategies to do so
 
+these are not in opposition to each other and you are free to mix and match
 
-
-
-
-
-
+also see that linearity and causality are related as are Perspective/Interactivity
 
 ---
 
-## Informing versus Driving
+## Organizational Strategies for Data Storytelling
 
-Do you want your audience to be able to recreate your input data?  To make inferences?  Or is it appropriate to focus on conveying broad ideas, without one-to-one mapping of information to visualization?
+* Linearity: Is there a defined order in which the data needs to be explored?
+* Interactivity: How much control should the "reader" have over the display and flow of the story?
+* Causality: Are there necessary dependancies between elements (or "beats") of the story? Are there points that are necessarily related?
+* Details/Zoomability/Perspective: Can further information be provided about specific topics or data points?
 
-Our stories must be *honest*.
+ 
+notes:
+here are some questions you can ask yourself while constructing your narrative control structures **read**
 
-How can we relate this to thinking about inductive as opposed to deductive storytelling?
+---
+
+## What is a Scene?
+
+<b>Scene (movie/play):</b> 
+* one of the subdivisions of a play: such as
+ * a: a division of an act presenting continuous action in one place
+ * b: a single situation or unit of dialogue in a play
+ * c: a motion-picture or television episode or sequence
+* a stage setting
+ * a real or imaginary prospect suggesting a stage setting
+* the place of an occurrence or action
+
+[Quoted from: Merriam-Webster](https://www.merriam-webster.com/dictionary/scene)
+
+
+notes:
+to discuss a few of these more, we need to define what we mean by a "scene" here?
+
+And its probably easier to see some examples
+
+For movies...
+
+---
+
+## What is a Scene?
+
+<b>Scene (movie/play):</b> 
+* one of the subdivisions of a play: such as
+ * a: a division of an act presenting continuous action in one place
+ * b: a single situation or unit of dialogue in a play
+ * c: a motion-picture or television episode or sequence
+* a stage setting
+ * a real or imaginary prospect suggesting a stage setting
+* the place of an occurrence or action
+
+[Quoted from: Merriam-Webster](https://www.merriam-webster.com/dictionary/scene)
 
 <div class="left">
-<img src="https://i.ytimg.com/vi/fVrCRS9tfF8/maxresdefault.jpg">
+<b>Scene (game design):</b> assets that contain all or part of a game or application. For example, you might build a simple game in a single scene, while for a more complex game, you might use one scene per level, each with its own environments, characters, obstacles, decorations, and UI (user interface).
 </div>
 
 <div class="right">
-<img src="https://media.graphcms.com/hRXLqP4XTH2UnjVJkLTe">
+<img src="https://docs.unity3d.com/uploads/Main/NewEmptyScene_01.png">
+</div>
+
+[Quoted from: Unity Game Engine](https://docs.unity3d.com/Manual/CreatingScenes.html)
+
+notes:
+in something like desiging a game, its a little different...
+
+game design is probably closer to what we mean by "scene" -- including data characters, data settings, etc
+
+but really, its sort of a mesh of the two together
+
+for us, let's think about scenes in the context of someone investigating an online data journalism story
+
+---
+
+## Linearity
+
+<img src="images/linearity.png">
+
+<b><u>A</u></b> leads to <b><u>B</u></b> which leads to <b><u>C</u></b> for *temporal* reasons.
+
+
+notes:
+here we have an example of *temporal* linearity, i.e. this is the ORDER in which we want to introduce concepts
+
+this is different from causal where A *causes* B *causes* C
+
+
+---
+
+## Linearity
+
+<img src="images/linearity.png">
+
+<b><u>A</u></b> leads to <b><u>B</u></b> which leads to <b><u>C</u></b> for *temporal* reasons.
+
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="border: none; vertical-align:top">
+<br><br><br><br><br><br><br>
+Information about different kinds of stars
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br>
+<img src=https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
+</td>
+<td style="border: none; vertical-align:top">
+<br><br><br>
+<img src="https://www.schoolsobservatory.org/sites/default/files/astro/hr-diagram-credit-nso.png" width="300px">
+</td>
+<td style="border: none; vertical-align:top" >
+<br><br><br><br><br><br>
+<img src="https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
+</td>
+<td style="border: none; vertical-align:top">
+<br><br><br><br>
+<img src="https://chandra.harvard.edu/graphics/edu/formal/variable_stars/HR_diagram.jpg" width="400px">
+</td>
+</tr>
+</table>
+
+notes:
+
+this is like the HR diagram example -- the data to enable to me to tell you anything about stars is actually the "end" of the things I would show you -- we had to get all the data about stars before we knew anything about them!
+
+but if I started off explaining all the data points here, you'd probably get lost 
+
+---
+
+## Interactivity
+
+<img src="images/interactive.png">
+
+Interactivity from a *storytelling* perspective.
+
+
+notes:
+this is a bit different from how we've been using interactivity before -- we have used google data studio to make interactive *data visualizations*
+
+but this is a bit different -- this is interactive based on the *storytelling perspective*
+
+---
+
+## Interactivity
+
+<img src="images/interactive.png" height="300px">
+
+<div class="left">
+Interactivity from a *storytelling* perspective.
+</div>
+<div class="right">
+<img src="https://pyxis.nymag.com/v1/imgs/99e/433/130301a4a9388de61bb821eb638122ab56-12-choose-your-own-adventure.rsquare.w700.jpg" height="300px">
 </div>
 
 notes:
-the distinction between data driven an data informed can be thought of a bit of as do you want your user to get a broad concept derived from data (data informed) OR do you want them to be able to recreate your graphs or visualizations/input data? (data driven)
+this is more akin to what we talked about last week with the "choose your own" adventure books and/or bandersnatch
 
-on both the left and right we see a depiction of the popularity of some anime cartoons
-
-on the left though, we see bars, but no axis numbers and no words, only little pictures showing which are the most popular -- we could not backtrack out what the data was here and make our own graph
-
-on the right however, we have names of each and actual numbers (in the millions on the bottom). both of these show the popularity of anime over time periods, but you only get a "feel" for relative popularities on the left, you would need something like the graph on the right to actually get the data and remake on your own
+this is what we'll be practicing with Twine for the next few weeks in class
 
 ---
 
-## Storytelling Form: interactive vs static
+## Causality
 
- * Narrative
- * Navigable
- * Hybrid
- 
-notes:
-another decision we need to make is how much control do we want to give our audience in the exploration of the story?
+<img src="images/causality.png">
 
- * narrative: you go tell someone, or canned conversations in a game
- * navigable: user is in control, more invested in some cases
- * hybrid: spectrum! this is often what we will do -- for example with google data studio the user can have some control over the look of a graph, or the range of data in it, but they don't have control over what graphs are present in your report -- you do!
- 
+<b><u>B</u></b> is *caused* by <b><u>A</u></b>.  <b><u>C</u></b> and <b><u>D</u></b> are caused by <b><u>B</u></b>.
 
-
----
-
-## Style of Story: Interactive/Navigable
-
-Do we give the person control?  How much control?  What do we need to retain?
-
-<ul>
- <li class="fragment"><b>Causality</b>: Do we want to start <i>en media res</i>? Are we just experiencing a bunch of events that happen to occur?</li>
- <li class="fragment"><b>Control</b>: How many degrees of freedom do we provide? When does it become confusing?  Is it sequential, random access, or a hybrid?</li>
- <li class="fragment"><b>Connection</b>: Does the experience (the teller) enable a connection between the data (the tale) and the viewer (the told)?</li>
-</ul>
-
-notes: 
-here "en media res" means in the middle of the story
-
----
-
-## Style of Story: Static
-
-Things sit there.  People can explore with their eyes, but the reference points never change under their feet.
-
-These can be effective, but can also be less visceral.
+[Example of 1 pixel Moon](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 
 notes:
-this can be like a static webpage or a static bbc article
+this is similar to linearity, but here there is a relationship between scenes
+
+for example, the 1 pixel moon scrollable viz
+
+here the spaces between each each planet in our solar system is CAUSED by the fact that we are making the moon 1 pixel in size
+
+if you just started in the middle, the whole viz wouldn't make sense
+
+if you changed the beginning -- if you made the moon 2 pixels in size then the rest of the viz would change
 
 ---
 
-## Style of Story: Hybrid
+## Details/Zoom-ability/Perspective
 
-A large-scale progression, coupled with intermediate diagrams that may be navigable.
+<img src="images/details.png">
 
-notes:
-again, this is likely what you will use for any interactive data stories you make
+Here Scene <b><u>D</u></b> can be "zoomed into" to explore different sub-topics.
 
----
-
-## Style of Story: Guided vs Unguided
-
- * [Bear Attack Survival Quiz](https://www.nytimes.com/interactive/2021/well/live/bear-attack-tips.html)
- * [Figures in the Sky](http://www.datasketch.es/may/code/nadieh/) (and [write-up](https://www.visualcinnamon.com/portfolio/figures-in-the-stars))
- 
- 
-Other cool sites we won't get to:
- * [Selfie City](http://selfiecity.net/)
- * [Letter Frequency](https://public.tableau.com/en-us/gallery/frequency-letters)
- * [Legend of Nixon, Sonically](https://twotone.io/examples/legend-of-nixon/) (also check out  https://twotone.io/)
+[London 360 Gigapixel](https://360gigapixels.com/london-320-gigapixel-panorama/) or [Example from BigPixel](http://en.bigpixel.cn/t/5834170785f26b37002af46d)
 
 notes:
+from a data storytelling perspective this could be clicking on a specific data point and allowing your user to see more information about this specific data point
 
-another thing we have to consider is how to guide users through our data story -- this relates to causality in an interactive/navigatable type story causality means that we don't need to know one thing before the next
-
-for example, the bear attack quiz (which is possibly the best waste of time I've participated in online in the recent past) walks you through learning about bears through framing this knowledge in a quiz. It is interactive, but there are pre-determined steps and in a sense the information you learn is causal -- you don't get a bear attack survival rating until the very end
-
-we can contrast that to something like Figures in the Sky in which there is some "top to bottom" navigation, but the user can select what to investigate and the order doesn't really matter
-
----
-
-## Designing Your Story: Consider your audience (and medium!)
-
- 1. What medium will you use?
-    * How do you want people to "consume" it?
-    * What are the pre-requisites?
-    * What do you need to do to prepare it?
- 2. What should it look like?
-    * How "risky" should it be?
-    * Is there a "visual language" you could use?
- 3. Where are the dimensions?
-    * What can change?
-    * What can stay the same?
-    * What can the audience control, and what can they not?
-
-notes:
-another important thing to consider when thinking about designing your story is how your audience will interact with any medium you choose to use to convey your story
-
-you should consider this medium and how folks can get to it
- * do they need a subscription? is it findable? 
- * what do you assume your audience knows before accessing your visualization?
- * how do you need to modify your data so that folks can see/understand your points?
- 
-what are the aethetics?
- * is there a visual language you can use? for example, many folks are already familiar with barcharts
- * if you choose a more complicated visization, make sure there is a reason for this
- 
-how interactive?
- * again, thinking about how much you want your audience to be able to control and in what order -- this choice might be audience-dependent!
-
-
-
+or just for fun, large zoomable images :)
 
 ---
 
 ## Twine
 
-Going forward in the class we are going to use Twine (and a bit of Google Data Studio with it if we have time).
-
-Twine is a way to build interactive narratives in the browser, that can be
-experienced and guided.
+notes:
+we'll use twine to explore these ideas in more detail!
