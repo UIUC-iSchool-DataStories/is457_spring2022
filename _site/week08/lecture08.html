@@ -1,0 +1,357 @@
+<!doctype html>
+<html>
+  <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<title>Data Narratives</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reset.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/theme/white.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/5.11.2/css/font-awesome.min.css">
+
+<!-- Theme used for syntax highlighting of code -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/highlight/highlight.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/notes/notes.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/math/math.js"></script>
+
+
+
+</style>
+
+  <link rel="stylesheet/less" type="text/css" href="/is457_aouaog_fall2021/assets/styles.less" />
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides">
+          <section class="titleslide">
+              <h1>Data Narratives</h1>
+              <h2>Jill Naiman</h2>
+              <h2>Data Storytelling - Fall, 2021</h2>
+          </section>
+        <section data-markdown
+           data-separator="^\n---\n"
+           data-separator-vertical="^\n----\n">
+          <script type="text/template">
+## But first! A quick announcement, again!
+
+See Week 7 on the Moodle for links to a "temperature taking" survey.
+
+---
+
+## Storytelling Form: interactive vs static
+
+ * Narrative
+ * Navigable
+ * Hybrid
+ 
+notes:
+recall we discussed this, maybe last week(?) centered around the idea of framing devices -- i.e. how we "set the stage" for our listener/viewer to engage with our data story
+
+another decision we need to make is how much control do we want to give our audience in the exploration of the story?
+
+ * narrative: you go tell someone, or canned conversations in a game
+ * navigable: user is in control, more invested in some cases
+ * hybrid: spectrum! this is often what we will do -- for example with google data studio the user can have some control over the look of a graph, or the range of data in it, but they don't have control over what graphs are present in your report -- you do!
+
+---
+
+## Narrative Control
+
+<div class="left">
+<img src="https://imgs.xkcd.com/comics/slides.png">
+</div>
+
+<div class="right">
+<br><br>
+<u><b>Broadcast:</b></u> ordering and flow are generally predetermined, control of narrative is disconnected from listener/viewer.
+
+</div>
+
+
+notes:
+in a bit more detail, when you are presenting a data story you can think about which sort of situation you are telling your story in
+
+often times when we are presenting a talk, this can be thought of as a "broadcasting" form of narrative control
+
+---
+
+## Narrative Control
+
+<div class="left">
+<img src="https://imgs.xkcd.com/comics/slides.png">
+</div>
+
+<div class="right">
+<br><br>
+<u><b>Broadcast:</b></u> ordering and flow are generally predetermined, control of narrative is disconnected from listener/viewer.
+
+</div>
+
+<div class="left" style="clear:both;">
+<img src="https://imgs.xkcd.com/comics/friendly_questions.png">
+</div>
+
+<div class="right">
+<br><br>
+<u><b>Interactive:</b></u> iterative and/or discussion-based. Flow and ordering of story is flexible and can sometimes not be repeatable (depending on medium).
+</div>
+
+notes:
+on the other end of the spectrum, you have something like a conversation that is interactive
+
+"interactive" can mean a bunch of different things -- a conversation about a data topic could be thought of as an interactive data story, but also something like the "choose your own" adventure books we discussed last week are a single-person interactive story (though, not generally about data)
+
+in reality, you will likely have a mix of two things -- you can have some interactivity in your talks by asking your audience questions or taking a poll; or if you have an interactive story you've built online you can provide your user some structure to move through the story in a way that enables a larger degree of understanding
+
+
+---
+
+<br><br><br>
+
+# How does this relate to data storytelling and visualization?
+
+notes:
+so I think a fair question at this point would be how does this relate to data storytelling and visualization?
+
+and how can we think about this distinction in practice?
+
+---
+
+## Narrative Control with Data Visualization
+
+We need to think carefully about how viewers/listeners interact with our information and visualizations.
+
+notes:
+so, I can tell you that "we need..."
+
+but why? well visualizations are powerful and in what they can communicate and how they can help folks comprehend what is going on
+
+---
+
+## Visualization as a reading strategy
+
+<img src="images/matts_picture.png">
+
+notes:
+how folks use viz to make a pic in their minds
+
+---
+
+## Visualization as a data comprehension strategy
+ 
+ 
+notes:
+narrative control allows... something
+
+---
+
+## Organizational Strategies for Data Storytelling
+
+notes:
+the four linearity, interactivity, causality, details
+
+ * idea of "what is a scene"
+ * goes through each of these
+ * maybe can relate it back to some things we've done in twine
+ * causality vs. linearity -- memento, pulp fiction
+ * details -- GDS was sort of used for this
+ * then does a jamboard
+ * maybe we do this lecture and then come back to it
+ * Details/Zoom-ability/Perspective
+ * maybe do this lecture twice -- before twine intro, and then before jamboard design activity
+ * for jamboard design activity: write down, who is your audience? where is this being presented?
+ 
+
+
+
+
+
+
+
+
+---
+
+## Informing versus Driving
+
+Do you want your audience to be able to recreate your input data?  To make inferences?  Or is it appropriate to focus on conveying broad ideas, without one-to-one mapping of information to visualization?
+
+Our stories must be *honest*.
+
+How can we relate this to thinking about inductive as opposed to deductive storytelling?
+
+<div class="left">
+<img src="https://i.ytimg.com/vi/fVrCRS9tfF8/maxresdefault.jpg">
+</div>
+
+<div class="right">
+<img src="https://media.graphcms.com/hRXLqP4XTH2UnjVJkLTe">
+</div>
+
+notes:
+the distinction between data driven an data informed can be thought of a bit of as do you want your user to get a broad concept derived from data (data informed) OR do you want them to be able to recreate your graphs or visualizations/input data? (data driven)
+
+on both the left and right we see a depiction of the popularity of some anime cartoons
+
+on the left though, we see bars, but no axis numbers and no words, only little pictures showing which are the most popular -- we could not backtrack out what the data was here and make our own graph
+
+on the right however, we have names of each and actual numbers (in the millions on the bottom). both of these show the popularity of anime over time periods, but you only get a "feel" for relative popularities on the left, you would need something like the graph on the right to actually get the data and remake on your own
+
+---
+
+## Storytelling Form: interactive vs static
+
+ * Narrative
+ * Navigable
+ * Hybrid
+ 
+notes:
+another decision we need to make is how much control do we want to give our audience in the exploration of the story?
+
+ * narrative: you go tell someone, or canned conversations in a game
+ * navigable: user is in control, more invested in some cases
+ * hybrid: spectrum! this is often what we will do -- for example with google data studio the user can have some control over the look of a graph, or the range of data in it, but they don't have control over what graphs are present in your report -- you do!
+ 
+
+
+---
+
+## Style of Story: Interactive/Navigable
+
+Do we give the person control?  How much control?  What do we need to retain?
+
+<ul>
+ <li class="fragment"><b>Causality</b>: Do we want to start <i>en media res</i>? Are we just experiencing a bunch of events that happen to occur?</li>
+ <li class="fragment"><b>Control</b>: How many degrees of freedom do we provide? When does it become confusing?  Is it sequential, random access, or a hybrid?</li>
+ <li class="fragment"><b>Connection</b>: Does the experience (the teller) enable a connection between the data (the tale) and the viewer (the told)?</li>
+</ul>
+
+notes: 
+here "en media res" means in the middle of the story
+
+---
+
+## Style of Story: Static
+
+Things sit there.  People can explore with their eyes, but the reference points never change under their feet.
+
+These can be effective, but can also be less visceral.
+
+notes:
+this can be like a static webpage or a static bbc article
+
+---
+
+## Style of Story: Hybrid
+
+A large-scale progression, coupled with intermediate diagrams that may be navigable.
+
+notes:
+again, this is likely what you will use for any interactive data stories you make
+
+---
+
+## Style of Story: Guided vs Unguided
+
+ * [Bear Attack Survival Quiz](https://www.nytimes.com/interactive/2021/well/live/bear-attack-tips.html)
+ * [Figures in the Sky](http://www.datasketch.es/may/code/nadieh/) (and [write-up](https://www.visualcinnamon.com/portfolio/figures-in-the-stars))
+ 
+ 
+Other cool sites we won't get to:
+ * [Selfie City](http://selfiecity.net/)
+ * [Letter Frequency](https://public.tableau.com/en-us/gallery/frequency-letters)
+ * [Legend of Nixon, Sonically](https://twotone.io/examples/legend-of-nixon/) (also check out  https://twotone.io/)
+
+notes:
+
+another thing we have to consider is how to guide users through our data story -- this relates to causality in an interactive/navigatable type story causality means that we don't need to know one thing before the next
+
+for example, the bear attack quiz (which is possibly the best waste of time I've participated in online in the recent past) walks you through learning about bears through framing this knowledge in a quiz. It is interactive, but there are pre-determined steps and in a sense the information you learn is causal -- you don't get a bear attack survival rating until the very end
+
+we can contrast that to something like Figures in the Sky in which there is some "top to bottom" navigation, but the user can select what to investigate and the order doesn't really matter
+
+---
+
+## Designing Your Story: Consider your audience (and medium!)
+
+ 1. What medium will you use?
+    * How do you want people to "consume" it?
+    * What are the pre-requisites?
+    * What do you need to do to prepare it?
+ 2. What should it look like?
+    * How "risky" should it be?
+    * Is there a "visual language" you could use?
+ 3. Where are the dimensions?
+    * What can change?
+    * What can stay the same?
+    * What can the audience control, and what can they not?
+
+notes:
+another important thing to consider when thinking about designing your story is how your audience will interact with any medium you choose to use to convey your story
+
+you should consider this medium and how folks can get to it
+ * do they need a subscription? is it findable? 
+ * what do you assume your audience knows before accessing your visualization?
+ * how do you need to modify your data so that folks can see/understand your points?
+ 
+what are the aethetics?
+ * is there a visual language you can use? for example, many folks are already familiar with barcharts
+ * if you choose a more complicated visization, make sure there is a reason for this
+ 
+how interactive?
+ * again, thinking about how much you want your audience to be able to control and in what order -- this choice might be audience-dependent!
+
+
+
+
+---
+
+## Twine
+
+Going forward in the class we are going to use Twine (and a bit of Google Data Studio with it if we have time).
+
+Twine is a way to build interactive narratives in the browser, that can be
+experienced and guided.
+
+          </script>
+        </section>
+      </div>
+    </div>
+<script>
+    // More info about config & dependencies:
+    // - https://github.com/hakimel/reveal.js#configuration
+    // - https://github.com/hakimel/reveal.js#dependencies
+    Reveal.initialize({
+        fragments: true,
+        fragmentInURL: true,
+        hash: true,
+        width: 1024,
+        height: 768,
+        margin: 0.02,
+        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath],
+        dependencies: [
+            { src: 'https://cdn.jsdelivr.net/npm/reveald3/reveald3.js'}
+        ],
+		keyboard: {
+		},
+        center: false,
+        transition: 'none',
+        backgroundTransition: 'none',
+        reveald3: {
+            runLastState: false
+        }
+    });
+</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js" ></script>
+
+
+  </body>
+</html>
+
