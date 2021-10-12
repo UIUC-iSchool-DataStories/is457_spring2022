@@ -472,4 +472,4 @@ or just for fun, large zoomable images :)
 ## Twine
 
 notes:
-we'll use twine to explore these ideas in more detail!
+we'll use twine to explore these ideas about how to implement these in more detail!
