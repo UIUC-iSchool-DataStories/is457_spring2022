@@ -12,7 +12,7 @@
   url: /syllabus
   faicon: fa-book
   weight: 10
-- name: Moodle
-  url: https://learn.illinois.edu/course/view.php?id=XXX
+- name: Canvas
+  url: TBD
   faicon: fa-school
   weight: 50
