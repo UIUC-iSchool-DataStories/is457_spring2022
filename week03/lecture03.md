@@ -41,7 +41,7 @@ city of chicago uses this alot
 
 ## data.world
 
-<!-- .slide: data-background-image="images/dataworld1.png" data-background-size="auto 65%" data-background-position="right 50% bottom 50%" -->
+<!-- .slide: data-background-image="images/dataworld1.png" data-background-size="auto 85%" data-background-position="right 50% bottom 50%" aria-label="[Contents of data.world/datasets/open-data]" -->
 
 notes:
 you'll see a list like this and a search function
@@ -52,7 +52,7 @@ look for chicago and pick one
 
 ## data.world
 
-<!-- .slide: data-background-image="images/dataworld2.png" data-background-size="auto 65%" data-background-position="right 50% bottom 50%" -->
+<!-- .slide: data-background-image="images/dataworld2.png" data-background-size="auto 85%" data-background-position="right 50% bottom 50%" aria-label="[Data view of Chicago City Council Votes and highlight on Explore this dataset button. Click this button for more info.]" -->
 
 notes:
 click on explore
@@ -73,7 +73,7 @@ search -- IMLS
 
 Keep in mind: not all local governments use this (Champaign does not, Urbana is a bit old)
 
-<!-- .slide: data-background-image="images/dataillinoisgov.png" data-background-size="auto 65%" data-background-position="right 50% bottom 50%" -->
+<!-- .slide: data-background-image="images/dataillinoisgov.png" data-background-size="auto 65%" data-background-position="right 50% bottom 50%" aria-label="[Looking at the contents of data.illinois.gov/group/local-government]" -->
 
 notes: 
 look at local governments
@@ -82,7 +82,7 @@ look at local governments
 
 ## data.humdata.org
 
-<!-- .slide: data-background-image="images/datahumdata.png" data-background-size="auto 65%" data-background-position="right 50% bottom 50%" -->
+<!-- .slide: data-background-image="images/datahumdata.png" data-background-size="auto 75%" data-background-position="right 50% bottom 50%" aria-label="[The webpage data.humdata.org/dataset]" -->
 
 notes:
 this can be very useful data for this class and your final presentations
@@ -125,7 +125,11 @@ come back, share out
 
 ## Brainstorm reports!
 
-https://jamboard.google.com/d/1bDiQWDVVNq8W1tAm9ziXSAyu12OMX89SjYq7sY4N_CE/edit?usp=sharing
+<!-- https://jamboard.google.com/d/1bDiQWDVVNq8W1tAm9ziXSAyu12OMX89SjYq7sY4N_CE/edit?usp=sharing -->
+
+https://jamboard.google.com/d/15kOMdW3cxSx1-k9YdvlSsD-PvAiAgBZH-c9NKD4BDnQ/edit?usp=sharing
+
+(You need to be signed in to access)
 
 What charts/text/visualizations might support a possible story?
 
