@@ -99,3 +99,13 @@ for example, if you want to say something along the lines of "I disagree with th
 This may seem a little weird, but saying "the claims of the article are not accurate" is a VERY different statement than "the article does not present the data in an effective way (because of my analysis of the data viz)" or "the methodology of the analysis of the data in the article has some flaws"
 
 If you want to say "claim #1 is incorrect" you need, on average 3-5 peer reviewed articles to "back" this up -- this is A LOT more work, so just be careful of this.  WE DON'T EXPECT YOU TO DO THIS MUCH WORK FOR THIS ASSIGNMENT -- that is why we suggest that you think carefully about how to approach your critique.
+
+---
+
+## Final note about TurnItIn for Assignment #4
+
+You are able to see your score right after you submit.  Please check this!  
+
+We want to use this as a teaching tool to avoid any FAIR violations.
+
+https://uiuc-ischool-dataviz.github.io/is445_spring2022/week03/lecture02_assignment_submission_help.html?showNotes=true#/
