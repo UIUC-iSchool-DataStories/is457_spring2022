@@ -3,12 +3,6 @@ title: Framing Devices
 layout: lecture
 ---
 
-## But first! A quick announcement
-
-See Week 7 on the Moodle for links to a "temperature taking" survey.
-
----
-
 # Today
 
 1. What is a framing device?
@@ -320,7 +314,7 @@ how interactive?
 
 ## Twine
 
-Going forward in the class we are going to use Twine (and a bit of Google Data Studio with it if we have time).
+Going forward (after Spring Break) in the class we are going to use Twine (and a bit of Google Data Studio with it if we have time).
 
 Twine is a way to build interactive narratives in the browser, that can be
 experienced and guided.
