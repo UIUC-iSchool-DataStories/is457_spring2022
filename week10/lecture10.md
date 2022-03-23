@@ -3,12 +3,6 @@ title: Data Narratives
 layout: lecture
 ---
 
-## But first! A quick announcement, again!
-
-See Week 7 on the Moodle for links to a "temperature taking" survey.
-
----
-
 ## Storytelling Form: interactive vs static
 
  * Narrative
@@ -16,13 +10,54 @@ See Week 7 on the Moodle for links to a "temperature taking" survey.
  * Hybrid
  
 notes:
-recall we discussed this, maybe last week(?) centered around the idea of framing devices -- i.e. how we "set the stage" for our listener/viewer to engage with our data story
+recall we discussed this 2 weeks before spring break at the very end of class
 
-another decision we need to make is how much control do we want to give our audience in the exploration of the story?
+We had a discussion about framing devices -- i.e. how we "set the stage" for our listener/viewer to engage with our data story
 
- * narrative: you go tell someone, or canned conversations in a game
- * navigable: user is in control, more invested in some cases
- * hybrid: spectrum! this is often what we will do -- for example with google data studio the user can have some control over the look of a graph, or the range of data in it, but they don't have control over what graphs are present in your report -- you do!
+---
+
+## Framing Devices Refresher
+
+Our "frame" can often dictate how much control our user has (from Narrative/Static to Hybrid to fully Navigable/Interactive).
+
+notes:
+the very last thing we discussed was how our choice of "frame" can often dictate how much control our listener/reader/user has over their consumption of our story
+
+---
+
+## Framing Devices Refresher
+
+Our "frame" can often dictate how much control our user has (from Narrative/Static to Hybrid to fully Navigable/Interactive).
+
+ * [Bear Attack Survival Quiz](https://www.nytimes.com/interactive/2021/well/live/bear-attack-tips.html)
+ * [Figures in the Sky](http://www.datasketch.es/may/code/nadieh/) (and [write-up](https://www.visualcinnamon.com/portfolio/figures-in-the-stars))
+ 
+ 
+Other cool sites we won't get to:
+ * [Selfie City](http://selfiecity.net/)
+ * [Letter Frequency](https://public.tableau.com/en-us/gallery/frequency-letters)
+ * [Legend of Nixon, Sonically](https://twotone.io/examples/legend-of-nixon/) (also check out  https://twotone.io/)
+
+notes:
+real quick, here are some cool examples from a more narrative representation (Bear Attack) vs. Figures in the Sky
+
+---
+
+## Storytelling Form: interactive vs static
+
+ * Narrative (Static)
+ * Navigable (Fully Interactive)
+ * Hybrid (Partially Interactive)
+
+notes:
+
+So, sometimes the amount of navigatability is chosen by our frame, but generally this is something we want to think carefully about and make specific choices when we can.
+
+I.e. we want to be very careful in deciding how much control do we want to give our audience in the exploration of the story?
+
+ * narrative (static): you go tell someone, or canned conversations in a game
+ * navigable (fully interactive): user is in control, more invested in some cases
+ * hybrid (partially interactive): spectrum! this is often what we will do -- for example with google data studio the user can have some control over the look of a graph, or the range of data in it, but they don't have control over what graphs are present in your report -- you do!
 
 ---
 
@@ -70,7 +105,7 @@ often times when we are presenting a talk, this can be thought of as a "broadcas
 notes:
 on the other end of the spectrum, you have something like a conversation that is interactive
 
-"interactive" can mean a bunch of different things -- a conversation about a data topic could be thought of as an interactive data story, but also something like the "choose your own" adventure books we discussed last week are a single-person interactive story (though, not generally about data)
+"interactive" can mean a bunch of different things -- a conversation about a data topic could be thought of as an interactive data story, but also something like the "choose your own" adventure books we discussed previously are a single-person interactive story (though, not generally about data)
 
 in reality, you will likely have a mix of two things -- you can have some interactivity in your talks by asking your audience questions or taking a poll; or if you have an interactive story you've built online you can provide your user some structure to move through the story in a way that enables a larger degree of understanding
 
@@ -132,7 +167,7 @@ for example, what if show you this example of an HR diagram, or the Hertsprung R
 notes:
 ... this representation 
 
-this representation is more sparse and actually labels
+this representation is more sparse and actually labels objects the general population might have heard of before
 
 for example, our sun is listed as are other stars folks may have heard of like Sirius and Betelgeuse (betelgeuse is the redish looking star in the constallation orion's shoulder)
 
@@ -194,7 +229,7 @@ Information about different kinds of stars
 </td>
 <td style="border: none; vertical-align:top" >
 <br><br><br><br><br><br>
-<img src=https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
+<img src="https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
 </td>
 <td style="border: none; vertical-align:top">
 <br><br><br>
@@ -307,9 +342,9 @@ here are some questions you can ask yourself while constructing your narrative c
 notes:
 to discuss a few of these more, we need to define what we mean by a "scene" here?
 
-And its probably easier to see some examples
+Well, its probably easier to see some examples, but let's start with a more formal definition.
 
-For movies...
+For movies or a play... **read**
 
 ---
 
@@ -337,9 +372,9 @@ For movies...
 [Quoted from: Unity Game Engine](https://docs.unity3d.com/Manual/CreatingScenes.html)
 
 notes:
-in something like desiging a game, its a little different...
+in something like desiging a game, its a little different... **read**
 
-game design is probably closer to what we mean by "scene" -- including data characters, data settings, etc
+game design is probably closer to what we mean by "scene" in terms of a data story -- including data characters, data settings, etc
 
 but really, its sort of a mesh of the two together
 
@@ -376,7 +411,7 @@ Information about different kinds of stars
 </td>
 <td style="border: none; vertical-align:top" >
 <br><br><br><br><br><br>
-<img src=https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
+<img src="https://cdn.pixabay.com/photo/2014/03/25/16/59/right-297788_1280.png" width="150px">
 </td>
 <td style="border: none; vertical-align:top">
 <br><br><br>
@@ -397,7 +432,7 @@ notes:
 
 this is like the HR diagram example -- the data to enable to me to tell you anything about stars is actually the "end" of the things I would show you -- we had to get all the data about stars before we knew anything about them!
 
-but if I started off explaining all the data points here, you'd probably get lost 
+but if I started off explaining all the data points here in the far right image, you'd probably get lost 
 
 ---
 
@@ -444,8 +479,13 @@ this is what we'll be practicing with Twine for the next few weeks in class
 notes:
 this is similar to linearity, but here there is a relationship between scenes
 
+**read: B is caused by A. C and D...**
+
 for example, the 1 pixel moon scrollable viz
 
+**go to this example**
+
+**Back from pixel moon**
 here the spaces between each each planet in our solar system is CAUSED by the fact that we are making the moon 1 pixel in size
 
 if you just started in the middle, the whole viz wouldn't make sense
@@ -471,5 +511,14 @@ or just for fun, large zoomable images :)
 
 ## Twine
 
+Twine is a way to build interactive narratives in the browser, that can be
+experienced and guided.
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/Fp9Sxiv-O-0?start=382" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 notes:
 we'll use twine to explore these ideas about how to implement these in more detail!
+
+here is a little history lesson about Twine from a tutorial for how to make your own interactive game
+
+starts at 6:22- about 7:59/8
