@@ -511,8 +511,9 @@ or just for fun, large zoomable images :)
 
 ## Twine
 
-Twine is a way to build interactive narratives in the browser, that can be
-experienced and guided.
+Twine is a way to build interactive narratives in the browser, that can be experienced and guided.
+
+This is also a way to "storyboard" our Data Story presentations (totally optional!).
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/Fp9Sxiv-O-0?start=382" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -522,3 +523,24 @@ we'll use twine to explore these ideas about how to implement these in more deta
 here is a little history lesson about Twine from a tutorial for how to make your own interactive game
 
 starts at 6:22- about 7:59/8
+
+---
+
+<img src="images/useitonline.png">
+
+notes:
+you can download twine, but we will be using it in the browser
+
+---
+
+<img src="images/newTwinery_start.png">
+
+notes:
+since its only saved in your browser cache, its best to periodically save the story
+
+---
+
+<img src="images/twinetosave.png">
+
+notes:
+since its only saved in your browser cache, its best to periodically save the story
